@@ -13,6 +13,9 @@ This course is an introduction to linear algebra concepts such as linear combina
 Lectures
 ======
 
+* [UFRJ programming courses page](https://dcc.ufrj.br/~pythonufrj/python1_37.html)
+* [UFRJ programming courses page](https://dcc.ufrj.br/~pythonufrj/python1_37.html)
+
 Python 3/Google Colab tutorials
 ======
 

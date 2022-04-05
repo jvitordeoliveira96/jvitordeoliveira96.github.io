@@ -1,5 +1,5 @@
 ---
-title: "Computational Linear Algebra (2021.1, 2021.2)"
+title: "Computational Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-ComputationalLinAlg-ICP115

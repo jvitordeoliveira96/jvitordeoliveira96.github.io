@@ -1,5 +1,5 @@
 ---
-title: "Computational Linear Algebra"
+title: "Computational Linear Algebra (2021.1, 2021.2)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-ComputationalLinAlg-ICP115
@@ -13,7 +13,8 @@ This course is an introduction to linear algebra concepts such as linear combina
 Lectures
 ======
 
-* [UFRJ programming courses page](https://dcc.ufrj.br/~pythonufrj/python1_37.html)
+
+* [Vectors, lines and linear combinations in the plane](https://drive.google.com/drive/u/1/folders/1sEXQ1PIX4aWaQOVp4PSk-CbVn3IILl6B)
 * [UFRJ programming courses page](https://dcc.ufrj.br/~pythonufrj/python1_37.html)
 
 Python 3/Google Colab tutorials

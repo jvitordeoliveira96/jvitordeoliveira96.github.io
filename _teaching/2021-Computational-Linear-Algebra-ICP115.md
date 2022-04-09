@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-ComputationalLinAlg-ICP115
 venue: "Universidade Federal do Rio de Janeiro, Computer Science Institute"
+date: 2021-07-05
 location: "Rio de Janeiro, Brazil"
 ---
 

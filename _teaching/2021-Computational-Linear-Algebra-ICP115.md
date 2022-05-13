@@ -14,14 +14,18 @@ Lectures (in Portuguese - S. C. Coutinho and João Vitor)
 ======
 
 * [Vectors, lines and linear combinations in two dimensions](https://drive.google.com/drive/folders/11s55ZQ4rq_P5MdV0H4Al2l2W6Uy2EcSV?usp=sharing)
-* [Linear operators, geometry and 2x2 matrices](https://drive.google.com/drive/folders/1wKRs1U-XpiJlJs8c4m9m5mKN_Bv2BNzi?usp=sharing)
+* [Linear operators in two dimensions, geometry and 2x2 matrices](https://drive.google.com/drive/folders/1wKRs1U-XpiJlJs8c4m9m5mKN_Bv2BNzi?usp=sharing)
 * [Determinants, Orthogonal matrices and matrix-vector products](https://drive.google.com/drive/folders/1Oa5t68s80uDXR06fNV2qe7Sx2pMusNtV?usp=sharing)
 * [Eigenvalues and Eigenvectors in two dimensions](https://drive.google.com/drive/folders/1kpqaMpDOO3wUmeuFyIkBKnai98q4cICb?usp=sharing)
 * [Linear Systems](https://drive.google.com/drive/folders/1WqHWuWKraLzm1A2pyhiIFFbPUu-30W9Q?usp=sharing)
 * [Subspaces of $\\mathbb{R}^n$](https://drive.google.com/drive/folders/1Wf-6wfu64wKeUxapt6xqBQDtNnjgRi52?usp=sharing)
 * [Fundamental subspaces](https://drive.google.com/drive/folders/1tZazTQ19YSIDjmZC9bx6zw3Z8WZv9j_h?usp=sharing)
 * [Overdetermined systems and Least squares](https://drive.google.com/drive/folders/1nyFwVkI4ocuflQlyfiy3C0c-q7oYLHc2?usp=sharing)
-* [Overdetermined systems and Least squares](https://drive.google.com/drive/folders/1nyFwVkI4ocuflQlyfiy3C0c-q7oYLHc2?usp=sharing)
+* [Determinants of nxn matrices](https://drive.google.com/drive/folders/1AiLsVu6eepZCtYSBcK2Lnig6iYVxmzVE?usp=sharing)
+* [Linear transforms and matrices](https://drive.google.com/file/d/1M1b7vU8ROmMCJuWTu67Jbt2-0uB-C1JW/view?usp=sharing)
+* [Orthogonality and Gram-Schmidt algorithm](https://drive.google.com/drive/folders/1fff4flqh-3zzca2sqen8e5I7nIPeL4jz?usp=sharing)
+* [Eigenvalues and Eigenvectors](https://drive.google.com/drive/folders/1aEbX1DH5ZPjrXNrS0iTtns9EC15Zfo-2?usp=sharing)
+* [Diagonalization and Power iteration](https://drive.google.com/drive/folders/1I8nzqLFYf2xxK63FvQGDNspYg1KhWENE?usp=sharing)
 
 
 

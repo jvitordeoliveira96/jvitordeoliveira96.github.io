@@ -10,12 +10,14 @@ location: "Rio de Janeiro, Brazil"
 
 This course is an introduction to linear algebra concepts such as linear combinations, subspaces, linear systems and eigenvalues, aimed for computer scientists. Part of the program is dedicated to the study of algorithms, as well as solving problems such as graphics animation with transformation matrices, least squares fitting and PageRank.
 
-Lectures
+Lectures (in Portuguese - S. C. Coutinho and João Vitor)
 ======
 
+* [Vectors, lines and linear combinations in two dimensions](https://drive.google.com/drive/folders/11s55ZQ4rq_P5MdV0H4Al2l2W6Uy2EcSV?usp=sharing)
+* [Linear operators, geometry and 2x2 matrices](https://drive.google.com/drive/folders/1wKRs1U-XpiJlJs8c4m9m5mKN_Bv2BNzi?usp=sharing)
+* [Determinants, Orthogonal matrices and matrix-vector products](https://drive.google.com/drive/folders/1Oa5t68s80uDXR06fNV2qe7Sx2pMusNtV?usp=sharing)
+* [Eigenvalues and Eigenvectors in two dimensions](https://drive.google.com/drive/folders/1kpqaMpDOO3wUmeuFyIkBKnai98q4cICb?usp=sharing)
 
-* [Vectors, lines and linear combinations in the plane](https://drive.google.com/drive/u/1/folders/1sEXQ1PIX4aWaQOVp4PSk-CbVn3IILl6B)
-* [UFRJ programming courses page](https://dcc.ufrj.br/~pythonufrj/python1_37.html)
 
 Python 3/Google Colab tutorials
 ======

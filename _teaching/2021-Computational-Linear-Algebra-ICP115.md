@@ -43,7 +43,7 @@ Lab assignments (in Portuguese)
 * [Lab 2A - Linear system of traffic flow](https://colab.research.google.com/drive/1s5ZkXzRjiKZvi4XO1WXQW1Ldvu9GEGFU?authuser=1#scrollTo=0hdilromszRN)
 * [Lab 2B - Linear system of food truck queue](https://colab.research.google.com/drive/1DPUtq6Fv60Osxp4mxcDdnpL25BqAeQB6?authuser=1#scrollTo=meS1sE10zumD)
 * [Lab 3 - Least squares fitting and supervised learning](https://colab.research.google.com/drive/1H_U9DgrPQ9aV3r_jBOOQKCGielzJKYvS?authuser=1); Files: [table_class.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/table_class.csv)
-* [Lab 4 - Power iteration, Pagerank and Wikipedia graph ranking](https://colab.research.google.com/drive/1OhRbVoTVo8wS8yr2dvUtlG97LtHrR9k_?authuser=1) Files: [wikipedia.npz](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/wikipedia.npz); [node_labels.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/node_labels.csv)
+* [Lab 4 - Power iteration, Pagerank and Wikipedia graph ranking](https://colab.research.google.com/drive/1OhRbVoTVo8wS8yr2dvUtlG97LtHrR9k_?authuser=1); Files: [wikipedia.npz](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/wikipedia.npz), [node_labels.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/node_labels.csv)
 
 
 Exercises (in Portuguese)

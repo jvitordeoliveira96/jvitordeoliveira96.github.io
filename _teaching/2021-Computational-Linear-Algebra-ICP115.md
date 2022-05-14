@@ -30,14 +30,21 @@ Lectures (in Portuguese - S. C. Coutinho and João Vitor)
 
 Python 3/Google Colab tutorials (in Portuguese)
 ======
-* [Introduction to Google Colab - 1](https://colab.research.google.com/drive/1w20jmqAUW0eUYJAUgCgg1Q50jmVM9Rlc?authuser=1#scrollTo=79FQOD2QzumL)
-* [Introduction to Google Colab - 2](https://colab.research.google.com/drive/1MyVaUnTYsfuk0YrWy9YJpX_-47lqErao?authuser=1#scrollTo=aXbOYtc0VNE1)
-* [Introduction to Google Colab - 3](https://colab.research.google.com/drive/1tdIHBe4MSMhu76ssaIQ-4aH3E1GFJ2KA?authuser=1#scrollTo=aXbOYtc0VNE1)
+* [Introduction to Google Colab #1](https://colab.research.google.com/drive/1w20jmqAUW0eUYJAUgCgg1Q50jmVM9Rlc?authuser=1#scrollTo=79FQOD2QzumL)
+* [Introduction to Google Colab #2](https://colab.research.google.com/drive/1MyVaUnTYsfuk0YrWy9YJpX_-47lqErao?authuser=1#scrollTo=aXbOYtc0VNE1)
+* [Introduction to Google Colab #3](https://colab.research.google.com/drive/1tdIHBe4MSMhu76ssaIQ-4aH3E1GFJ2KA?authuser=1#scrollTo=aXbOYtc0VNE1)
 * [Gaussian Elimination with step by step](https://colab.research.google.com/drive/1_1lcF2-EXJksp7UFsvf9m4jY-mgK7DAm?authuser=1#scrollTo=pYIe5fhFqfu-)
 * [Geometry of linear systems - Column and Row perspectives](https://colab.research.google.com/drive/19WfHjWNJufaB7GZuE0-EVYMFz8-NrSDn?authuser=1#scrollTo=pYIe5fhFqfu-)
 
 Lab assignments (in Portuguese)
 ======
+* [Lab i - 2D vector plotting and clock animation](https://colab.research.google.com/drive/1kWJyqOHgSP0R20iGTwSY_K7ZNZjfm_XD?authuser=1#scrollTo=meS1sE10zumD)
+* [Lab 1 - Image transforms and animation](https://colab.research.google.com/drive/19jySLJgJCQDS2U74aZ3xyIXpt3vWOOhH?authuser=1#scrollTo=e5Ll-WGV2OXH)
+* [Lab 2A - Linear system of traffic flow](https://colab.research.google.com/drive/1s5ZkXzRjiKZvi4XO1WXQW1Ldvu9GEGFU?authuser=1#scrollTo=0hdilromszRN)
+* [Lab 2B - Linear system of food truck queue](https://colab.research.google.com/drive/1DPUtq6Fv60Osxp4mxcDdnpL25BqAeQB6?authuser=1#scrollTo=meS1sE10zumD)
+* [Lab 3 - Least squares fitting and supervised learning](https://colab.research.google.com/drive/1H_U9DgrPQ9aV3r_jBOOQKCGielzJKYvS?authuser=1); Files: [table_class.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/table_class.csv)
+* [Lab 4 - Power iteration, Pagerank and Wikipedia graph ranking](https://colab.research.google.com/drive/1OhRbVoTVo8wS8yr2dvUtlG97LtHrR9k_?authuser=1) Files: [wikipedia.npz](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/wikipedia.npz); [node_labels.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/node_labels.csv)
+
 
 Exercises (in Portuguese)
 ======

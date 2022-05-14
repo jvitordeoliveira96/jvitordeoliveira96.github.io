@@ -62,5 +62,5 @@ Exams (remote, in Portuguese)
 ======
 * [P1a](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Exams/p1a.pdf); [P1b](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Exams/p1c.pdf)
 * [P2a](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Exams/p2.pdf); [P2b](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Exams/p2b.pdf); [P2c](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Exams/p2c.pdf)
-* [P3]()
+* [P3]( )
 * [PS](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Exams/ps.pdf)

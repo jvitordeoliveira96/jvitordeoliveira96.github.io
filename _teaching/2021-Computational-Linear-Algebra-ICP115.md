@@ -28,16 +28,19 @@ Lectures (in Portuguese - S. C. Coutinho and João Vitor)
 * [Diagonalization and Power iteration](https://drive.google.com/drive/folders/1I8nzqLFYf2xxK63FvQGDNspYg1KhWENE?usp=sharing)
 
 
+Python 3/Google Colab tutorials (in Portuguese)
+======
+* [Introduction to Google Colab - 1](https://colab.research.google.com/drive/1w20jmqAUW0eUYJAUgCgg1Q50jmVM9Rlc?authuser=1#scrollTo=79FQOD2QzumL)
+* [Introduction to Google Colab - 2](https://colab.research.google.com/drive/1MyVaUnTYsfuk0YrWy9YJpX_-47lqErao?authuser=1#scrollTo=aXbOYtc0VNE1)
+* [Introduction to Google Colab - 3](https://colab.research.google.com/drive/1tdIHBe4MSMhu76ssaIQ-4aH3E1GFJ2KA?authuser=1#scrollTo=aXbOYtc0VNE1)
+* [Gaussian Elimination with step by step](https://colab.research.google.com/drive/1_1lcF2-EXJksp7UFsvf9m4jY-mgK7DAm?authuser=1#scrollTo=pYIe5fhFqfu-)
+* [Geometry of linear systems - Column and Row perspectives](https://colab.research.google.com/drive/19WfHjWNJufaB7GZuE0-EVYMFz8-NrSDn?authuser=1#scrollTo=pYIe5fhFqfu-)
 
-
-Python 3/Google Colab tutorials
+Lab assignments (in Portuguese)
 ======
 
-Lab assignments
+Exercises (in Portuguese)
 ======
 
-Exercises 
-======
-
-Exams (remote) 
+Exams (remote, in Portuguese) 
 ======

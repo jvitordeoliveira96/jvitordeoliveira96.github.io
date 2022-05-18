@@ -38,7 +38,7 @@ Python 3/Google Colab tutorials (in Portuguese)
 
 Lab assignments (in Portuguese)
 ======
-* Lab i - 2D vector plotting and clock animation 
+* Lab i - 2D vector plotting and clock animation \
     <a href="https://colab.research.google.com/drive/1kWJyqOHgSP0R20iGTwSY_K7ZNZjfm_XD?authuser=1#scrollTo=meS1sE10zumD" rel="some text"><img src="http://jvitordeoliveira96.github.io/images/ICP115_labi.gif" width="250px" height="250px"/></a> 
 * [Lab 1 - Image transforms and animation](https://colab.research.google.com/drive/19jySLJgJCQDS2U74aZ3xyIXpt3vWOOhH?authuser=1#scrollTo=e5Ll-WGV2OXH)
 * [Lab 2A - Linear system of traffic flow](https://colab.research.google.com/drive/1s5ZkXzRjiKZvi4XO1WXQW1Ldvu9GEGFU?authuser=1#scrollTo=0hdilromszRN)

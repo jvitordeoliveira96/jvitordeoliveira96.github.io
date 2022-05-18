@@ -39,8 +39,9 @@ Python 3/Google Colab tutorials (in Portuguese)
 Lab assignments (in Portuguese)
 ======
 * Lab i - 2D vector plotting and clock animation \
-    <a href="https://colab.research.google.com/drive/1kWJyqOHgSP0R20iGTwSY_K7ZNZjfm_XD?authuser=1#scrollTo=meS1sE10zumD" rel="some text"><img src="http://jvitordeoliveira96.github.io/images/ICP115_labi.gif" width="250px" height="250px"/></a> 
-* [Lab 1 - Image transforms and animation](https://colab.research.google.com/drive/19jySLJgJCQDS2U74aZ3xyIXpt3vWOOhH?authuser=1#scrollTo=e5Ll-WGV2OXH)
+    <a href="https://colab.research.google.com/drive/1kWJyqOHgSP0R20iGTwSY_K7ZNZjfm_XD?authuser=1#scrollTo=meS1sE10zumD" rel="ICP115-Lab i"><img src="http://jvitordeoliveira96.github.io/images/ICP115_labi.gif" width="280px" height="280px"/></a> 
+* Lab 1 - Image transforms and animation \
+    <a href="https://colab.research.google.com/drive/19jySLJgJCQDS2U74aZ3xyIXpt3vWOOhH?authuser=1#scrollTo=e5Ll-WGV2OXH" rel="ICP115-Lab 1"><img src="http://jvitordeoliveira96.github.io/images/ICP115_lab1.gif" width="280px" height="280px"/></a> 
 * [Lab 2A - Linear system of traffic flow](https://colab.research.google.com/drive/1s5ZkXzRjiKZvi4XO1WXQW1Ldvu9GEGFU?authuser=1#scrollTo=0hdilromszRN)
 * [Lab 2B - Linear system of food truck queue](https://colab.research.google.com/drive/1DPUtq6Fv60Osxp4mxcDdnpL25BqAeQB6?authuser=1#scrollTo=meS1sE10zumD)
 * [Lab 3 - Least squares fitting and supervised learning](https://colab.research.google.com/drive/1H_U9DgrPQ9aV3r_jBOOQKCGielzJKYvS?authuser=1#scrollTo=ePEcuAeLqizO); Files: [table_class.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/table_class.csv)

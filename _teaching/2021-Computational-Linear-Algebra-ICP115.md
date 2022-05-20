@@ -45,12 +45,12 @@ Lab assignments (in Portuguese)
 * Lab 2A - Linear system of traffic flow   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         Lab 2B - Linear system of food truck queue  
     <a href="https://colab.research.google.com/drive/1s5ZkXzRjiKZvi4XO1WXQW1Ldvu9GEGFU?authuser=1#scrollTo=0hdilromszRN" rel="ICP115-Lab 2A"><img src="http://jvitordeoliveira96.github.io/images/ICP115_lab2a.png" width="242px" height="129px"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/drive/1DPUtq6Fv60Osxp4mxcDdnpL25BqAeQB6?authuser=1#scrollTo=meS1sE10zumD" rel="ICP115-Lab 2B"><img src="http://jvitordeoliveira96.github.io/images/ICP115_lab2b.png" width="242px" height="242px"/></a> 
 * Lab 3 - Least squares fitting and supervised learning   \ 
-     Files: [table_class.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/table_class.csv) \
+      Files: [table_class.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/table_class.csv) \
      &nbsp; &nbsp; \ 
      <a href="https://colab.research.google.com/drive/1H_U9DgrPQ9aV3r_jBOOQKCGielzJKYvS?authuser=1#scrollTo=ePEcuAeLqizO" rel="ICP115-Lab 3"><img src="http://jvitordeoliveira96.github.io/images/ICP115_lab3.png" width="282px" height="270px"/></a>   
 * Lab 4 - Power iteration, Pagerank and Wikipedia graph ranking \
      Files: [wikipedia.npz](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/wikipedia.npz), [node_labels.csv](http://jvitordeoliveira96.github.io/files/UFRJ_courses/ALA_ICP115/Assignments/node_labels.csv)\
-     &nbsp; \
+     &nbsp;&nbsp; \
     <a href="https://colab.research.google.com/drive/1OhRbVoTVo8wS8yr2dvUtlG97LtHrR9k_?authuser=1#scrollTo=Oy8ZXxFsWXVZ" rel="ICP115-Lab 4"><img src="http://jvitordeoliveira96.github.io/images/ICP115_lab4.png" width="288px" height="207px"/></a>  
 
 

@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Curriculum Vitae
+======
+Portuguese:
+English: 
+
+<!---
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -36,7 +42,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<!---
+
 
 Publications
 ======

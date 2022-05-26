@@ -12,6 +12,7 @@ redirect_from:
 Curriculum Vitae
 ======
 Portuguese:
+
 English: 
 
 <!---

@@ -11,9 +11,11 @@ redirect_from:
 
 Curriculum Vitae
 ======
-Portuguese:
+[English](http://jvitordeoliveira96.github.io/files/cv.pdf)
 
-English: 
+[Portuguese](http://jvitordeoliveira96.github.io/files/cv_pt.pdf)
+
+ 
 
 <!---
 Education

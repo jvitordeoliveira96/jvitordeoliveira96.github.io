@@ -8,6 +8,8 @@ venue: 'Journal of Simulation'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/17477778.2021.1977731?journalCode=tjsm20'
 #citation: ''
 ---
-This work models the COVID spread in Brazil and Rio de Janeiro state, using a Bayesian framework for the identification of model parameters and uncertainty quantification of the formulated model outcomes. Moreover, different relaxation strategies of social distancing measures are investigated to determine which are viable and less hazardous to the population. [Link](https://www.tandfonline.com/doi/abs/10.1080/17477778.2021.1977731?journalCode=tjsm20)
+This work models the COVID spread in Brazil and Rio de Janeiro state, using a Bayesian framework for the identification of model parameters and uncertainty quantification of the formulated model outcomes. Moreover, different relaxation strategies of social distancing measures are investigated to determine which are viable and less hazardous to the population. 
+
+[Link](https://www.tandfonline.com/doi/abs/10.1080/17477778.2021.1977731?journalCode=tjsm20)
 
 

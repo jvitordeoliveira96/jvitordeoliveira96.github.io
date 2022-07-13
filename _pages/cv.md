@@ -11,9 +11,18 @@ redirect_from:
 
 Curriculum Vitae
 ======
-[English](http://jvitordeoliveira96.github.io/files/cv.pdf)
+<a href="http://jvitordeoliveira96.github.io/files/cv.pdf" target="_blank">English</a>
 
-[Portuguese](http://jvitordeoliveira96.github.io/files/cv_pt.pdf)
+<a href="http://jvitordeoliveira96.github.io/files/cv_pt.pdf" target="_blank">Portuguese</a>
+
+
+
+
+<!-- [English](http://jvitordeoliveira96.github.io/files/cv.pdf)
+
+[Portuguese](http://jvitordeoliveira96.github.io/files/cv_pt.pdf) --> 
+
+
 
  
 

@@ -10,4 +10,6 @@ paperurl: 'https://tema.sbmac.org.br/tema/article/view/1425'
 ---
 This work investigates five distinct tumor growth models with different complexities, which encompass the exponential, logistic, Gompertz, and weak and strong Allee effects dynamics. Using tumor growth data published in the literature, we perform a global sensitivity analysis, apply a Bayesian framework for parameter inference, evaluate the associated sensitivity matrices, and use different information criteria for model selection (First- and Second-Order Akaike Information Criteria and Bayesian Information Criterion).
 
+**Authors**: Gustavo Taiji Naozuka, Emanuelle Arantes Paixão, João Vitor Oliveira Silva, Maurício Pessoa da Cunha Menezes, Regina Cerqueira Almeida
+
 [Link](https://tema.sbmac.org.br/tema/article/view/1425)

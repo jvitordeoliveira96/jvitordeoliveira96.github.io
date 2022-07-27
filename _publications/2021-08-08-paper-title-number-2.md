@@ -1,7 +1,7 @@
 ---
 title: "A generalised SEIRD model with implicit social distancing mechanism: A Bayesian approach for the identification of the spread of COVID-19 with applications in Brazil and Rio de Janeiro state"
 collection: publications
-permalink: /publication/2021-08-08-paper-title-number-2
+permalink: /publication/2021-08-08-covid19-paper-2
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-08-08
 venue: 'Journal of Simulation'

@@ -1,7 +1,7 @@
 ---
 title: "Bayesian inference using Gaussian process surrogates in cancer modeling"
 collection: publications
-permalink: /publication/2022-07-1-paper-title-number-1
+permalink: /publication/2022-07-1-abcgpr-paper-1
 #excerpt: 'Accepted on July 14, 2022'
 date: 2022-07-14
 venue: 'Computer Methods in Applied Mechanics and Engineering'

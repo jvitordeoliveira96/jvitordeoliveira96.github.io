@@ -1,7 +1,7 @@
 ---
 title: "Model Comparison and Uncertainty Quantification in Tumor Growth"
 collection: publications
-permalink: /publication/2021-02-02-paper-title-number-2
+permalink: /publication/2021-02-02-uqtumor-paper-3
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-02-02
 venue: 'Trends in Computational and Applied Mathematics'

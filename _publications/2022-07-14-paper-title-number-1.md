@@ -12,6 +12,6 @@ This work proposes an approximate Bayesian computation (ABC) approach for estima
 
 **Authors**: Heber L. Rocha, João Vitor de O. Silva, Renato S. Silva, Ernesto A. B. F. Lima, Regina C. Almeida.
 
-*Accepted for publication on July 14, soon available.*
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0045782522004650)
 
 

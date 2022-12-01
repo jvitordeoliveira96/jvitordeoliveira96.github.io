@@ -25,7 +25,7 @@ Master thesis
 <br><br>
 This work proposes the use of a data-driven Gaussian process surrogate model in order to alleaviate the computational burden of performing Approximate Bayesian Computation of complex tumor growth model.
 
-[Link](https://tede.lncc.br//bitstream//tede//339//5//dissertacao_Jo%c3%a3o%20Vitor%20O%20Silva.pdf)
+[Link](http://jvitordeoliveira96.github.io/files/dissertacao_jvos_.pdf)
 
 Undergraduate thesis
 ======
@@ -36,4 +36,4 @@ Undergraduate thesis
 <br><br>
 This work compares distinct methods of solving generalized eigenvalue problems (GEVPs) associated with linear hydrodynamic stability problems. 
 
-[Link](https://pantheon.ufrj.br//bitstream//11422//5505//3//Generalized_eigenvalue.pdf)
+[Link](http://jvitordeoliveira96.github.io/files/tcc_generalized_eigen.pdf)

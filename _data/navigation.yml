@@ -14,11 +14,13 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
+  - title: "Presentations"
+    url: /talks/
+
   - title: "CV"
     url: /cv/
 
-  - title: "Presentations"
-    url: /talks/
+  
     
  # - title: "Guide"
  #   url: /markdown/

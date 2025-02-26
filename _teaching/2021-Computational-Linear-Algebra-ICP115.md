@@ -30,11 +30,11 @@ Lectures (in Portuguese - S. C. Coutinho and João Vitor)
 
 Python 3/Google Colab tutorials (in Portuguese)
 ======
-* [Introduction to Google Colab #1](https://colab.research.google.com/drive/1w20jmqAUW0eUYJAUgCgg1Q50jmVM9Rlc?authuser=1#scrollTo=79FQOD2QzumL)
-* [Introduction to Google Colab #2](https://colab.research.google.com/drive/1MyVaUnTYsfuk0YrWy9YJpX_-47lqErao?authuser=1#scrollTo=aXbOYtc0VNE1)
-* [Introduction to Google Colab #3](https://colab.research.google.com/drive/1tdIHBe4MSMhu76ssaIQ-4aH3E1GFJ2KA?authuser=1#scrollTo=aXbOYtc0VNE1)
-* [Gaussian Elimination with step by step](https://colab.research.google.com/drive/1_1lcF2-EXJksp7UFsvf9m4jY-mgK7DAm?authuser=1#scrollTo=pYIe5fhFqfu-)
-* [Geometry of linear systems - Column and Row perspectives](https://colab.research.google.com/drive/19WfHjWNJufaB7GZuE0-EVYMFz8-NrSDn?authuser=1#scrollTo=pYIe5fhFqfu-)
+* [Introduction to Google Colab #1](https://colab.research.google.com/drive/1w20jmqAUW0eUYJAUgCgg1Q50jmVM9Rlc?authuser=1#scrollTo=79FQOD2QzumL) [english version](https://colab.research.google.com/drive/1fIwXF6Qi8kw-fNLj4X1Vfr-GDxnvfqX6#scrollTo=79FQOD2QzumL)
+* [Introduction to Google Colab #2](https://colab.research.google.com/drive/1MyVaUnTYsfuk0YrWy9YJpX_-47lqErao?authuser=1#scrollTo=aXbOYtc0VNE1) [english version](https://colab.research.google.com/drive/1BE2Iq2IFfEnuu9VNQUlze6tx18GeM2My#scrollTo=aXbOYtc0VNE1)
+* [Introduction to Google Colab #3](https://colab.research.google.com/drive/1tdIHBe4MSMhu76ssaIQ-4aH3E1GFJ2KA?authuser=1#scrollTo=aXbOYtc0VNE1) [english version](https://colab.research.google.com/drive/19anpEkUrI1N9v5IGJi8-pgIlA81vRoxj#scrollTo=aXbOYtc0VNE1)
+* [Gaussian Elimination with step by step](https://colab.research.google.com/drive/1_1lcF2-EXJksp7UFsvf9m4jY-mgK7DAm?authuser=1#scrollTo=pYIe5fhFqfu-) [english version](https://colab.research.google.com/drive/17RlEmztX5RraaAPrGnCKwFrTR-yFlg0m#scrollTo=pYIe5fhFqfu-)
+* [Geometry of linear systems - Column and Row perspectives](https://colab.research.google.com/drive/19WfHjWNJufaB7GZuE0-EVYMFz8-NrSDn?authuser=1#scrollTo=pYIe5fhFqfu-) [english version](https://colab.research.google.com/drive/12rn8KKvoFQZuIFdubxojpkiz-aHIsykD#scrollTo=pYIe5fhFqfu-)
 
 Lab assignments (in Portuguese)
 ======
@@ -54,7 +54,7 @@ Lab assignments (in Portuguese)
     <a href="https://colab.research.google.com/drive/1OhRbVoTVo8wS8yr2dvUtlG97LtHrR9k_?authuser=1#scrollTo=Oy8ZXxFsWXVZ" rel="ICP115-Lab 4"><img src="http://jvitordeoliveira96.github.io/images/ICP115_lab4.png" width="288px" height="207px"/></a>  
 
 
-
+English versions: [Lab 1](https://colab.research.google.com/drive/1gYj2cYvEY6C4unmCGipIIO33m4ZT_mcG#scrollTo=e5Ll-WGV2OXH), [Lab 4](https://colab.research.google.com/drive/15O5cUX-JN8VnRFb8Ev0jDFx1rXhI_eag#scrollTo=meS1sE10zumD)
 
 Exercises (in Portuguese)
 ======
